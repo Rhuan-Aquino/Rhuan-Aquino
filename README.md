@@ -35,28 +35,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-###
 
 <div align="left">
   <a href="https://instagram.com/_ubreezy" target="_blank">
@@ -75,7 +53,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/rhuan123/rhuan123/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Rhuan-Aquino/Rhuan-Aquino/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 ###
