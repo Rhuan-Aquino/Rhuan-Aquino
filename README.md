@@ -4,12 +4,6 @@
 
 <img align="right" height="150" src="https://venerable-stroopwafel-0994a3.netlify.app/static/media/me.5422479ef4660b642c9c.png"  />
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rhuan-Aquino&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rhuan-Aquino&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
 ###
 
 <div align="left">
