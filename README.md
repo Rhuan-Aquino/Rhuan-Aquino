@@ -47,3 +47,9 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
+
+<hr>
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/3c/0a/40/3c0a40251e5a61491e730d23509b475b.gif" alt="gif final" width="300px" />
+</div>
