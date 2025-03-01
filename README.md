@@ -1,12 +1,9 @@
-<h2 align="left">Salve, Me chamo Rhuan e sou do RJ - Santa Teresa</h2>
-![me 5422479ef4660b642c9c](https://github.com/user-attachments/assets/c1519e91-22a6-4b65-9944-5f7ac7186ae6)
+<h2 align="center">Salve, Me chamo Rhuan e sou do RJ - Santa Teresa</h2>
+
+<img src="https://github.com/user-attachments/assets/1d127278-92c5-48e6-800d-1741b9e82ac3" width="300px" align="center" />
+
 <p align="center">🖐🏾😜🤚🏾</p>
 
-<img src="https://github.com/user-attachments/assets/1d127278-92c5-48e6-800d-1741b9e82ac3" width="300px" />
-
-<br />
-<br />
-<br />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
