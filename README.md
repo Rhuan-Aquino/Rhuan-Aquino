@@ -53,3 +53,5 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/97/65/27/97652792ef4ba4ca1feafaa2b450ba18.gif" alt="gif final" width="100vw" />
 </div>
+
+![snake gif](https://github.com/Rhuan-Aquino/Rhuan-Aquino/blob/output/github-contribution-grid-snake.svg)
