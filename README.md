@@ -2,7 +2,7 @@
 ![me 5422479ef4660b642c9c](https://github.com/user-attachments/assets/c1519e91-22a6-4b65-9944-5f7ac7186ae6)
 <p align="center">🖐🏾😜🤚🏾</p>
 
-<br />![me 5422479ef4660b642c9c (1)](https://github.com/user-attachments/assets/1d127278-92c5-48e6-800d-1741b9e82ac3)
+<img src="https://github.com/user-attachments/assets/1d127278-92c5-48e6-800d-1741b9e82ac3" width="300px" />
 
 <br />
 <br />
