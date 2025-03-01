@@ -1,5 +1,6 @@
-<h2 align="left">Salve👋 Me chamo Rhuan e sou do RJ - Santa Teresa</h2>
+<h2 align="left">Salve, Me chamo Rhuan e sou do RJ - Santa Teresa</h2>
 
+<p align="center">🖐🏾😜🤚🏾</p>
 ###
 
 <div align="left">
