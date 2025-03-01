@@ -55,3 +55,6 @@
 </div>
 
 ![snake gif](https://github.com/Rhuan-Aquino/Rhuan-Aquino/blob/output/github-contribution-grid-snake.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Rhuan-Aquino&repo=your_Rhuan-Aquino&theme=react)](https://github.com/Rhuan-Aquino/Rhuan-Aquino)
+
