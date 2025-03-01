@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/1d127278-92c5-48e6-800d-1741b9e82ac3" width="300px" align="center" />
+<img align="center" src="https://github.com/user-attachments/assets/1d127278-92c5-48e6-800d-1741b9e82ac3" width="300px" align="center" />
 
 <h2 align="center">Salve 🖐🏾😜🤚🏾, Me chamo Rhuan e sou do RJ - Santa Teresa</h2>
 
