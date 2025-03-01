@@ -51,5 +51,5 @@
 <hr>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/3c/0a/40/3c0a40251e5a61491e730d23509b475b.gif" alt="gif final" width="100vw" />
+  <img src="https://i.pinimg.com/originals/97/65/27/97652792ef4ba4ca1feafaa2b450ba18.gif" alt="gif final" width="100vw" />
 </div>
