@@ -1,5 +1,5 @@
 <h2 align="left">Salve, Me chamo Rhuan e sou do RJ - Santa Teresa</h2>
-
+![me 5422479ef4660b642c9c](https://github.com/user-attachments/assets/c1519e91-22a6-4b65-9944-5f7ac7186ae6)
 <p align="center">🖐🏾😜🤚🏾</p>
 
 <br />
